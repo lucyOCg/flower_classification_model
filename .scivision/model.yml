@@ -1,5 +1,5 @@
 name: flower_model
-url: https://github.com/nbarlowATI/flower_classification_model
+url: https://github.com/lucyOCg/flower_classification_model
 import: flower_classification_model
 model: efficientNetB3
 prediction_fn:
